@@ -10,7 +10,7 @@ frustrated with using it, and I wanted something that isn't coupled to
 a browser and something I could use in scripts perhaps.
 
 ## Requirements
-- a C90 compiler
+- a C99 compiler
 - libpng
 
 ## Instructions
